@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "microservice",
+    "packageName": "org.bj",
+    "packageFolder": "org/bj",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "NWZiNTgzMTVkMzc3MjgyNzQ0MmUwNGJjNTZiODliMDdhZTVlYzY1YTc0ZjY1MzQ0NTk3YzMyOWRjMTBlNTYxZTYyNTI0N2EyNWRmNzdlNDYyYWJhNzBjYWJjNTNhYjkwZThjZTg1ZTVlZWNhMWRiOGZkOTljMmJmNDRkYmIxOWQ=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "olatokunbo",
+  "repository-name": "jhipster-sample-application"
+}
